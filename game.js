@@ -49,7 +49,7 @@
     { emoji: "👞", name: "鞋子", penalty: 1 },
     { emoji: "🪨", name: "石头", penalty: 1 },
     { emoji: "🧻", name: "纸巾", penalty: 1 },
-    { emoji: "🐟", name: "生鱼", penalty: 1 },
+    { emoji: "🍔", name: "汉堡", penalty: 1 },
     { emoji: "💣", name: "炸弹", penalty: 2 },
   ];
 
