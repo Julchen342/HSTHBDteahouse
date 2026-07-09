@@ -1,2 +1,32 @@
-# HSTHBDteahouse
-A fan made game for celebrate Huang Shaotian's 26th birthday.
+# 黄少天早茶店 Alpha 0.1
+
+这是一个纯前端 Emoji 草稿版小游戏，用于 7/11 前完成可试玩 Demo。
+
+## 文件结构
+
+```text
+shaotian-teahouse-demo/
+├── index.html
+├── style.css
+├── game.js
+└── README.md
+```
+
+## 运行方式
+
+直接双击 `index.html`，或把整个文件夹上传到 GitHub Pages。
+
+## 当前玩法
+
+- 移动 😄 接住正确食材：🥟 🍤 🍵 🥮 🍚 🥬
+- 避开错误物品：🧦 👞 🪨 🧻 🐟 💣
+- 道具：⭐ 双倍积分、⏰ 加时、❤️ 回血、🧲 吸附、🐢 减速
+- 随机朋友事件：喻文州、苏沐橙、王杰希、韩文清、叶修、周泽楷
+
+## 后续 TODO
+
+- 替换正式美术
+- 增加截图按钮或社交分享图
+- 增加闯关模式
+- 增加 Bug 反馈链接
+- 调整下落速度与分数平衡
